@@ -1,0 +1,27 @@
+More stunning than the statue are the views .####More=O stunning=O than=O the=O statue=O are=O the=O views=T-POS .=O 
+A must do when in Rio Not expensive ( I am from London ) .####A=O must=O do=O when=O in=O Rio=O Not=O expensive=O (=O I=O am=O from=O London=O )=O .=O 
+Worth it .####Worth=O it=O .=O 
+You must go .####You=O must=O go=O .=O 
+It is accessible .####It=O is=O accessible=O .=O 
+It has a 360 view of the entire city .####It=O has=O a=O 360=O view=T-POS of=O the=O entire=O city=O .=O 
+It is affordable .####It=O is=O affordable=O .=O 
+There is a chapel under the statue for those interested in services .####There=O is=O a=O chapel=T-NEU under=O the=O statue=O for=O those=O interested=O in=O services=O .=O 
+You must visit this attraction .####You=O must=O visit=O this=O attraction=T-POS .=O 
+it is a spectacular view .####it=O is=O a=O spectacular=O view=T-POS .=O 
+There are lots of people though and it is hard to make a good photo with the statue .####There=O are=O lots=O of=O people=T-NEG though=O and=O it=O is=O hard=O to=O make=O a=O good=O photo=T-NEG with=O the=O statue=O .=O 
+There are elevators to get to the top .####There=O are=O elevators=T-NEU to=O get=O to=O the=O top=O .=O 
+However , the road to Corcovado is very windy if you go by car or a van .####However=O ,=O the=O road=T-NEU to=O Corcovado=O is=O very=O windy=O if=O you=O go=O by=O car=T-NEU or=O a=O van=T-NEU .=O 
+I took a can and almost got sick because there turns are so sharp and it goes very fast .####I=O took=O a=O can=O and=O almost=O got=O sick=O because=O there=O turns=O are=O so=O sharp=O and=O it=O goes=O very=O fast=O .=O 
+If you prefer a slower ride take a tram .####If=O you=O prefer=O a=O slower=O ride=O take=O a=O tram=T-POS .=O 
+And then 583 bus if you stayed anywhere from Leblon , Copacabana or Ipanema .####And=O then=O 583=O bus=T-NEU if=O you=O stayed=O anywhere=O from=O Leblon=O ,=O Copacabana=O or=O Ipanema=O .=O 
+We enjoyed this trip but wished we took a tram at the beginning .####We=O enjoyed=O this=O trip=T-POS but=O wished=O we=O took=O a=O tram=T-POS at=O the=O beginning=O .=O 
+Whenever I have friend's coming to Brazil , I always take them up the Christ .####Whenever=O I=O have=O friend's=O coming=O to=O Brazil=O ,=O I=O always=O take=O them=O up=O the=O Christ=O .=O 
+You will not get a 360 view of Rio anywhere else , and it is breathtaking .####You=O will=O not=O get=O a=O 360=O view=T-POS of=O Rio=O anywhere=O else=O ,=O and=O it=O is=O breathtaking=O .=O 
+Buy a ticket online before you go , as the queue for tickets can be awful - especially on a weekend or in peak seasons .####Buy=O a=O ticket=O online=O before=O you=O go=O ,=O as=O the=O queue=T-POS for=T-POS tickets=T-NEG can=O be=O awful=O -=O especially=O on=O a=O weekend=T-NEG or=O in=O peak=O seasons=O .=O 
+Just book your time slot and pay online , go to the train station at the foot of the Corcovado mountain , pick up your tickets and wait for your time slot to go on the little train .####Just=O book=O your=O time=O slot=O and=O pay=O online=O ,=O go=O to=O the=O train=O station=O at=O the=O foot=O of=O the=O Corcovado=O mountain=O ,=O pick=O up=O your=O tickets=O and=O wait=O for=O your=O time=O slot=O to=O go=O on=O the=O little=O train=O .=O 
+The journey takes about 20 minutes and it is a gorgeous ride up .####The=O journey=T-NEU takes=O about=O 20=O minutes=O and=O it=O is=O a=O gorgeous=O ride=T-POS up=T-POS .=O 
+If you can , try to sit on the right hand side as you will have the view over the mountain the whole way up .####If=O you=O can=O ,=O try=O to=O sit=O on=O the=O right=O hand=O side=O as=O you=O will=O have=O the=O view=T-POS over=O the=O mountain=O the=O whole=O way=O up=O .=O 
+Once you are at the Christ and you have done all your standard touristy arms out photo poses , check out the chapel at the base of the Christ , and really take in the view around you .####Once=O you=O are=O at=O the=O Christ=O and=O you=O have=O done=O all=O your=O standard=O touristy=O arms=O out=O photo=O poses=O ,=O check=O out=O the=O chapel=T-POS at=O the=O base=O of=O the=O Christ=O ,=O and=O really=O take=O in=O the=O view=T-POS around=O you=O .=O 
+As well as the famous beaches and the Sugar Loaf , you will be able to see the Maracan stadium , the lake ( lagoa the enormous graveyard , the botanical gardens etc .####As=O well=O as=O the=O famous=O beaches=T-POS and=O the=O Sugar=O Loaf=O ,=O you=O will=O be=O able=O to=O see=O the=O Maracan=O stadium=O ,=O the=O lake=O (=O lagoa=O the=O enormous=O graveyard=O ,=O the=O botanical=O gardens=O etc=O .=O 
+I am often asked which attraction is better , the Christ or the Sugar Loaf , and for me , nothing beats the view from the Christ .####I=O am=O often=O asked=O which=O attraction=O is=O better=O ,=O the=O Christ=O or=O the=O Sugar=O Loaf=O ,=O and=O for=O me=O ,=O nothing=O beats=O the=O view=T-POS from=O the=O Christ=O .=O 
+The Sugar Loaf is a cool experience with the cable car etc , but it is a lot smaller , you do not get the 360 view and if you only have time to do one , do the Christ !####The=O Sugar=O Loaf=O is=O a=O cool=O experience=T-POS with=O the=O cable=T-POS car=T-POS etc=O ,=O but=O it=O is=O a=O lot=O smaller=O ,=O you=O do=O not=O get=O the=O 360=O view=T-NEG and=O if=O you=O only=O have=O time=O to=O do=O one=O ,=O do=O the=O Christ=O !=O 
