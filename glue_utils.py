@@ -516,7 +516,8 @@ def compute_metrics_absa(preds, labels, all_evaluate_label_ids, tagging_schema):
 processors = {
     "laptop14": ABSAProcessor,
     "rest_total": ABSAProcessor,
-    "datac": ABSAProcessor
+    "datac": ABSAProcessor,
+    "taj": ABSAProcessor
 }
 
 output_modes = {
@@ -535,5 +536,6 @@ output_modes = {
     "rest14": "classification",
     "rest15": "classification",
     "rest16": "classification",
-    "datac": "classification"
+    "datac": "classification",
+    "taj": "classification"
 }

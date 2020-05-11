@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-TASK_NAME=taj
+TASK_NAME=datac
 ABSA_TYPE=tfm
 CUDA_VISIBLE_DEVICES=0,2,3 python main.py --model_type bert \
                          --absa_type ${ABSA_TYPE} \
