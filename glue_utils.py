@@ -517,7 +517,11 @@ processors = {
     "laptop14": ABSAProcessor,
     "rest_total": ABSAProcessor,
     "datac": ABSAProcessor,
-    "taj": ABSAProcessor
+    "taj": ABSAProcessor,
+    "greatwall": ABSAProcessor,
+    "machu": ABSAProcessor,
+    "itza": ABSAProcessor,
+    "petra": ABSAProcessor
 }
 
 output_modes = {
@@ -537,5 +541,9 @@ output_modes = {
     "rest15": "classification",
     "rest16": "classification",
     "datac": "classification",
-    "taj": "classification"
+    "taj": "classification",
+    "greatwall": "classification",
+    "machu": "classification",
+    "itza": "classification",
+    "petra": "classification"
 }
