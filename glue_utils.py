@@ -521,7 +521,8 @@ processors = {
     "greatwall": ABSAProcessor,
     "machu": ABSAProcessor,
     "itza": ABSAProcessor,
-    "petra": ABSAProcessor
+    "petra": ABSAProcessor,
+    "final": ABSAProcessor
 }
 
 output_modes = {
@@ -545,5 +546,6 @@ output_modes = {
     "greatwall": "classification",
     "machu": "classification",
     "itza": "classification",
-    "petra": "classification"
+    "petra": "classification",
+    "final": "classification"
 }
