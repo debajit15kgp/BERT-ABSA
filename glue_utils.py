@@ -522,7 +522,8 @@ processors = {
     "machu": ABSAProcessor,
     "itza": ABSAProcessor,
     "petra": ABSAProcessor,
-    "final": ABSAProcessor
+    "christ": ABSAProcessor,
+    "colosseum": ABSAProcessor
 }
 
 output_modes = {
@@ -547,5 +548,6 @@ output_modes = {
     "machu": "classification",
     "itza": "classification",
     "petra": "classification",
-    "final": "classification"
+    "christ": "classification",
+    "colosseum": "classification"
 }
