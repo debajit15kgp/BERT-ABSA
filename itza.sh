@@ -8,9 +8,9 @@ CUDA_VISIBLE_DEVICES=0,2,3 python main.py --model_type bert \
                          --model_name_or_path bert-base-uncased \
                          --data_dir ./data/${TASK_NAME} \
                          --task_name ${TASK_NAME} \
-                         --per_gpu_train_batch_size 16 \
-                         --per_gpu_eval_batch_size 8 \
-                         --learning_rate 2e-5 \
+                         --per_gpu_train_batch_size 64 \
+                         --per_gpu_eval_batch_size 32 \
+                         --learning_rate 1e-4 \
                          --do_train \
                          --do_eval \
                          --do_lower_case \
@@ -20,4 +20,4 @@ CUDA_VISIBLE_DEVICES=0,2,3 python main.py --model_type bert \
                          --eval_all_checkpoints \
                          --MASTER_ADDR localhost \
                          --MASTER_PORT 28512 \
-                         --max_steps 1500
+                         --max_steps 5000
